@@ -51,12 +51,19 @@
       
   12. ![l5](https://github.com/user-attachments/assets/404c2dce-815e-4310-a7fd-fc10d0c079be)
 
+      di bagian instalasi partisi ini, saya pribadi langsung next karena saya memakai virtualbox yang sudah ada 1 storage virtual yang kosong
       
-  13. ![l6](https://github.com/user-attachments/assets/de345947-ee05-4abb-bedb-b4f1c7ec43b5)
+  14. ![l6](https://github.com/user-attachments/assets/de345947-ee05-4abb-bedb-b4f1c7ec43b5)
 
-  14. ![l7](https://github.com/user-attachments/assets/3e4204b0-aeaa-4e71-bdc9-7bfefe1dccdd)
+      kemudian di bagian ini username linux dan password untuk login
+      
+  16. ![l7](https://github.com/user-attachments/assets/3e4204b0-aeaa-4e71-bdc9-7bfefe1dccdd)
 
-  15. ![l8](https://github.com/user-attachments/assets/076d9408-1c9a-46f9-bd70-3165bf5aea3b)
+      ini pilih titik lokasi di Jakarta lalu klik next dan kemudian finish
+      
+  18. ![l8](https://github.com/user-attachments/assets/076d9408-1c9a-46f9-bd70-3165bf5aea3b)
+
+      sekarang proses instalasi sudah dimulai, ini memerlukan waktu yang agak lama jadi bisa ditinggal pushrank terlebih dahulu 
 
 
 

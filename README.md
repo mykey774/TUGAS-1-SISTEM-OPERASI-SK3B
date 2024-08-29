@@ -37,5 +37,21 @@
 
      pilih bahasa yang diinginkan, ada Bahasa Indonesia dan Bahasa Inggris dll kemudian next next saja
 
+  8. ![l2](https://github.com/user-attachments/assets/3e343395-2991-44b5-97f8-2f8c48edcaf1)
+     
+  9. ![l3](https://github.com/user-attachments/assets/38ff7b1d-0429-4083-8963-e475578f3092)
+
+
+  10. ![l4](https://github.com/user-attachments/assets/f669f54c-5545-47a5-8b25-0a482e0c4f9a)
+
+  11. ![l5](https://github.com/user-attachments/assets/404c2dce-815e-4310-a7fd-fc10d0c079be)
+
+  12. ![l6](https://github.com/user-attachments/assets/de345947-ee05-4abb-bedb-b4f1c7ec43b5)
+
+  13. ![l7](https://github.com/user-attachments/assets/3e4204b0-aeaa-4e71-bdc9-7bfefe1dccdd)
+
+  14. ![l8](https://github.com/user-attachments/assets/076d9408-1c9a-46f9-bd70-3165bf5aea3b)
+
+
 
   

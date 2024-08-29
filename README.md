@@ -16,6 +16,10 @@
 
      Pada gambar di atas, isi nama, pilih lokasi folder untuk menyimpan linux dan pilih iso linux yang sudah didownload
 
-  5. ![vb3](https://github.com/user-attachments/assets/66dd4505-fa3e-4872-b783-7bf3b7fa0fd4)
+  4. ![vb3](https://github.com/user-attachments/assets/66dd4505-fa3e-4872-b783-7bf3b7fa0fd4)
+
+     di bagian bisa langsung next saja tapi jika mengalami error pada bagian hostname, coba untuk mengubah nama nya tanpa spasi contohnya jika ingin nama Miki Purnawan maka nama hostname nya itu Miki-Purnawan
+
+  5. ![vb4](https://github.com/user-attachments/assets/4e9fce31-266f-4fb9-bf48-5f1ba27d13ca)
 
   

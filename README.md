@@ -13,8 +13,9 @@
      ![vb1](https://github.com/user-attachments/assets/fe65780e-eb0f-4052-b867-ee66c864cce3)
 
   3. ![vb2](https://github.com/user-attachments/assets/3b3910b1-6411-46b0-805f-a85357169c49)
+
      Pada gambar di atas, isi nama, pilih lokasi folder untuk menyimpan linux dan pilih iso linux yang sudah didownload
 
-  4. ![vb3](https://github.com/user-attachments/assets/66dd4505-fa3e-4872-b783-7bf3b7fa0fd4)
+  5. ![vb3](https://github.com/user-attachments/assets/66dd4505-fa3e-4872-b783-7bf3b7fa0fd4)
 
   

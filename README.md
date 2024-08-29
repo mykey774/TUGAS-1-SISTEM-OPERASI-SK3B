@@ -23,13 +23,17 @@
 
   4. ![vb3](https://github.com/user-attachments/assets/66dd4505-fa3e-4872-b783-7bf3b7fa0fd4)
 
-     di bagian bisa langsung next saja tapi jika mengalami error pada bagian hostname, coba untuk mengubah nama nya tanpa spasi contohnya jika ingin nama Miki Purnawan maka nama hostname nya itu Miki-Purnawan
+     di bagian ini bisa langsung next saja tapi jika mengalami error pada bagian hostname, coba untuk mengubah nama nya tanpa spasi contohnya jika ingin nama Miki Purnawan maka nama hostname nya itu Miki-Purnawan
 
   5. ![vb4](https://github.com/user-attachments/assets/4e9fce31-266f-4fb9-bf48-5f1ba27d13ca)
 
      Di bagian ini saya sarankan untuk mengubah memory base nya ke minimal 3000MB agar tidak terlalu ngelag dan di bagian processor nya ganti ke 2 atau lebih
 
   6. ![vb5](https://github.com/user-attachments/assets/1e502457-cf86-4199-8f62-10cfa3c8ff5d)
+
+     ini adalah bagian virtual storage atau penyimpanan virtual yang berarti semakin besar storage yang diatur maka storage yang tersedia itu lebih besar, kemudian klik next dan finish maka virtual machine akan berjalan/running
+
+  7.
 
 
   

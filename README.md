@@ -33,7 +33,9 @@
 
      ini adalah bagian virtual storage atau penyimpanan virtual yang berarti semakin besar storage yang diatur maka storage yang tersedia itu lebih besar, kemudian klik next dan finish maka virtual machine akan berjalan/running
 
-  7.
+  7. ![l1](https://github.com/user-attachments/assets/19337cd8-13c0-4010-b709-92177b361f78)
+
+     pilih bahasa yang diinginkan, ada Bahasa Indonesia dan Bahasa Inggris dll kemudian next next saja
 
 
   

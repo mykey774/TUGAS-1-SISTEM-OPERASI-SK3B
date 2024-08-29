@@ -9,6 +9,5 @@
      A. Link file iso linux : https://ubuntu.com/download/desktop
      B. Link software VirtualBox : https://www.virtualbox.org/wiki/Downloads
 
-  2. Setelah mendownload dan menginstall VirtualBox, Langkah selanjutnya adalah membuka VirtualBox
-     
-  
+  2. Setelah mendownload dan menginstall VirtualBox. Langkah selanjutnya adalah membuka VirtualBox, kemudian klik new
+     ![vb1](https://github.com/user-attachments/assets/fe65780e-eb0f-4052-b867-ee66c864cce3)

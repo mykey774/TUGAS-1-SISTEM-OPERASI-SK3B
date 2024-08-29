@@ -41,27 +41,27 @@
 
      di bagian ini bisa pilih no connection atau wired connection(jika perangkat terkoneksi internet) kemudian next
      
-  10. ![l3](https://github.com/user-attachments/assets/38ff7b1d-0429-4083-8963-e475578f3092)
+  9. ![l3](https://github.com/user-attachments/assets/38ff7b1d-0429-4083-8963-e475578f3092)
 
-      pilih install linux kemudian next next saja
+      pilih install ubuntu kemudian next next saja
 
-  11. ![l4](https://github.com/user-attachments/assets/f669f54c-5545-47a5-8b25-0a482e0c4f9a)
+  10. ![l4](https://github.com/user-attachments/assets/f669f54c-5545-47a5-8b25-0a482e0c4f9a)
 
       di bagian ini centang install third party, bisa juga centang download and install support jika perangkat terkoneksi internet
       
-  12. ![l5](https://github.com/user-attachments/assets/404c2dce-815e-4310-a7fd-fc10d0c079be)
+  11. ![l5](https://github.com/user-attachments/assets/404c2dce-815e-4310-a7fd-fc10d0c079be)
 
       di bagian instalasi partisi ini, saya pribadi langsung next karena saya memakai virtualbox yang sudah ada 1 storage virtual yang kosong
       
-  14. ![l6](https://github.com/user-attachments/assets/de345947-ee05-4abb-bedb-b4f1c7ec43b5)
+  12. ![l6](https://github.com/user-attachments/assets/de345947-ee05-4abb-bedb-b4f1c7ec43b5)
 
       kemudian di bagian ini username linux dan password untuk login
       
-  16. ![l7](https://github.com/user-attachments/assets/3e4204b0-aeaa-4e71-bdc9-7bfefe1dccdd)
+  13. ![l7](https://github.com/user-attachments/assets/3e4204b0-aeaa-4e71-bdc9-7bfefe1dccdd)
 
       ini pilih titik lokasi di Jakarta lalu klik next dan kemudian finish
       
-  18. ![l8](https://github.com/user-attachments/assets/076d9408-1c9a-46f9-bd70-3165bf5aea3b)
+  14. ![l8](https://github.com/user-attachments/assets/076d9408-1c9a-46f9-bd70-3165bf5aea3b)
 
       sekarang proses instalasi sudah dimulai, ini memerlukan waktu yang agak lama jadi bisa ditinggal pushrank terlebih dahulu 
 

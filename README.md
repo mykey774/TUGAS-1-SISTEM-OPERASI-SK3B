@@ -8,6 +8,9 @@
   
   **NIM : 09011282328122**
 
+
+  **NOMOR 1. BUATLAH TATA CARA INSTALASI LINUX UBUNTU**
+
   1.   Download terlebih dahulu file iso linux ubuntu deskop 24.0.4 LTS dan Software VirtualBox
 
      A. Link file iso linux : https://ubuntu.com/download/desktop
@@ -65,8 +68,18 @@
 
       sekarang proses instalasi sudah dimulai, ini memerlukan waktu yang agak lama jadi bisa ditinggal pushrank terlebih dahulu
 
-  15. 
+  15. ![l9](https://github.com/user-attachments/assets/3995f213-ba87-443e-802c-1d03fac54929)
+
+      Setelah proses instalasi selesai, kita bisa klik continue ataupun restart tapi saya sarankan restart saja agar lebih aman
+
+  16. ![l10](https://github.com/user-attachments/assets/6d57dab3-1780-4d61-acf9-4b37935ab06f)
+
+      Setelah restart maka akan muncul menu login username dan password linux, kita harus masukkan username dan password sesuai dengan yang sudah kita isi ketika proses instalasi dan itulah tata cara instalasi linux ubuntu di virtualbox
 
 
+
+  **NOMOR 2. Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ?**
+
+  
 
   

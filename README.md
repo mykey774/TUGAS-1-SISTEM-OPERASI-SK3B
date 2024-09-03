@@ -80,6 +80,36 @@
 
   **NOMOR 2. Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ?**
 
-  
+  ![L12](https://github.com/user-attachments/assets/bdcb5230-ade0-4354-881b-42decbe35d8a)
+
+  Jawab : Saat instalasi Linux Ubuntu, memilih "/" sebagai Mount Point penting karena:
+
+A. Root Filesystem: "/" adalah direktori utama dari sistem file Linux. Memilihnya berarti partisi akan menjadi tempat penyimpanan utama untuk semua file sistem.
+
+B. Pengaturan Sistem: Tanpa memilih "/", sistem tidak akan tahu di mana file-file penting harus disimpan.
+
+C. Organisasi: "/" adalah titik awal dari struktur direktori, sehingga semua file dan folder lainnya berada di bawahnya.
+
+  **NOMOR 3. Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs**
+
+  Jawab :
+
+ A. ext4: Sistem file utama di Linux, cepat dan stabil, mendukung ukuran file besar dan fitur canggih seperti journaling.
+
+ B. ext3: Sistem file Linux yang lebih tua dengan fitur journaling, tetapi dengan keterbatasan ukuran volume dan performa dibandingkan ext4.
+
+ C. swap: Ruang tambahan di Linux yang digunakan saat RAM hampir penuh, membantu menjaga sistem tetap berjalan lancar.
+
+ D. NTFS: Sistem file utama untuk Windows dengan dukungan untuk ukuran file besar, izin file, dan fitur keamanan.
+
+ E. FAT32: Sistem file kompatibel luas, sering digunakan di media penyimpanan portabel, dengan batas ukuran file maksimum 4 GB.
+
+ F. btrfs: Sistem file Linux canggih dengan fitur seperti snapshot dan manajemen volume yang efisien, menawarkan kemampuan pemulihan data yang kuat.
+
+
+
+
+
+
 
   

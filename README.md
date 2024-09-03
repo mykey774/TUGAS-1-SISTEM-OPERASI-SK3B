@@ -63,7 +63,9 @@
       
   14. ![l8](https://github.com/user-attachments/assets/076d9408-1c9a-46f9-bd70-3165bf5aea3b)
 
-      sekarang proses instalasi sudah dimulai, ini memerlukan waktu yang agak lama jadi bisa ditinggal pushrank terlebih dahulu 
+      sekarang proses instalasi sudah dimulai, ini memerlukan waktu yang agak lama jadi bisa ditinggal pushrank terlebih dahulu
+
+  15. 
 
 
 
